@@ -6,9 +6,9 @@ color:
   saturation: 0.4472211222164333
   rhythmicContrast: 0.609187101945281
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: RandomHuman
